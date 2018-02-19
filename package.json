@@ -1,0 +1,16 @@
+{
+  "name": "bot-of-conduct",
+  "version": "1.0.0",
+  "description": "A bot that welcomes users and tells them to click a box to accept a code of conduct.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Joe Fabisevich<github@fabisevi.ch>",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2"
+  }
+}
